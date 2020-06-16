@@ -9,4 +9,5 @@ RUN set -ex \
     mysql-client \
     curl \
     bind9-utils \
-    net-tools
+    net-tools \
+    dnsutils
