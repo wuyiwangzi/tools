@@ -7,4 +7,5 @@ RUN set -ex \
     && apt install -y \
     vim \
     mysql-client \
-    curl
+    curl \
+    bind9-utils
