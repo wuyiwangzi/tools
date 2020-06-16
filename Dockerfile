@@ -8,4 +8,5 @@ RUN set -ex \
     vim \
     mysql-client \
     curl \
-    bind9-utils
+    bind9-utils \
+    net-tools
