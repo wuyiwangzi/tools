@@ -10,4 +10,5 @@ RUN set -ex \
     curl \
     bind9-utils \
     net-tools \
-    dnsutils
+    dnsutils \
+    iputils-ping
